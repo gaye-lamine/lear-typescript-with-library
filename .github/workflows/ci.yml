@@ -1,14 +1,14 @@
 name: CI Pipeline
 on:
     push:
-        branch:
+        branches:
             - master
     pull_request:
-        branch:
+        branches:
             - master
 jobs:
     test:
-        run-on: ubuntu-latest
+        runs-on: ubuntu-latest
         steps:
             - name: Checkout code
               uses: actions/checkout@v2
