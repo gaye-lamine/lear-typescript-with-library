@@ -50,6 +50,3 @@ Un projet de gestion de bibliothèque en TypeScript pour apprendre et pratiquer 
 
 🔗 **Lien du projet** : [https://github.com/gaye-lamine/lear-typescript-with-library](https://github.com/gaye-lamine/lear-typescript-with-library)
 
-```
-
----
