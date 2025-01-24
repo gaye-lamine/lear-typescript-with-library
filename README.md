@@ -53,20 +53,3 @@ Un projet de gestion de bibliothèque en TypeScript pour apprendre et pratiquer 
 ```
 
 ---
-
-### **Pourquoi cette version est efficace :**
-- **Court et concis** : Se concentre sur l'essentiel.
-- **Facile à lire** : Les sections sont claires et bien séparées.
-- **Informations clés** : Installation, utilisation, structure et licence sont incluses.
-
-### **Comment l'utiliser :**
-1. Copie ce contenu.
-2. Colle-le dans ton fichier `README.md`.
-3. Commit et push :
-   ```bash
-   git add README.md
-   git commit -m "README simplifié"
-   git push origin main
-   ```
-
----
